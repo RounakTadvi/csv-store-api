@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# html cov
+htmlcov/
+
+# Coverage
+.coverage
